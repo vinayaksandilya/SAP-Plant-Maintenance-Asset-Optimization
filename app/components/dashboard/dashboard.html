@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-lg-12" ng-if="$ctrl.memAlert">
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">Downtime Alert</h4>
+            <p>Machine has hit theshold usage. </p>
+            <p class="m-b-0">If left un-tended, machine may crash.</p>
+        </div>
+    </div>
+
+    <div class="col-lg-6">
+        <cpu-usage></cpu-usage>
+    </div>
+    <div class="col-lg-6">
+        <mem-usage></mem-usage>
+    </div>
+
+    <div class="col-lg-6">
+        <disk-usage></disk-usage>
+    </div>
+    <div class="col-lg-6">
+        <network-usage></network-usage>
+    </div>
+</div>

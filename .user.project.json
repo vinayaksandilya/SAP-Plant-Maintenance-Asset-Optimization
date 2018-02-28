@@ -1,0 +1,43 @@
+{
+  "run": [
+    {
+      "filePath": "/site/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 2453430,
+        "runnerId": "webapprunner",
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1519780801723
+      }
+    },
+    {
+      "filePath": "/site/app/components/dashboard/cpu-widget/cpu-widget.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 6559027,
+        "runnerId": "webapprunner",
+        "displayName": "Run cpu-widget.html",
+        "lastRunTimeStamp": 1519779606662
+      }
+    }
+  ],
+  "annotationeditor": {
+    "sConfigId": "2453430"
+  }
+}
