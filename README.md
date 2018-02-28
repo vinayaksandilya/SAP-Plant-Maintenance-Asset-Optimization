@@ -5,4 +5,6 @@ To depoly this code in any web server use
 
 https://github.com/vinayaksandilya/SAP-Plant-Maintenance-Asset-Optimization.git
 
+Use case : 
 
+<img src="https://raw.githubusercontent.com/vinayaksandilya/SAP-Plant-Maintenance-Asset-Optimization/master/usecase.png"></img>
